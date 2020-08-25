@@ -9,8 +9,7 @@
 # testing
 /coverage
 
-#safety
-keys.js
+#safet
 # production
 /build
 
