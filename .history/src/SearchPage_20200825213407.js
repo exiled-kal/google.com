@@ -22,7 +22,7 @@ function SearchPage() {
           />
         </Link>
         <div className="searchPage__headerBody">
-          <Search hideButtons />
+          <Search
         </div>
       </div>
       <div className="searchPage__results"></div>
